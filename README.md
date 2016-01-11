@@ -22,5 +22,5 @@ The [Tableau dashboard] (https://public.tableau.com/profile/publish/SanFrancisco
 
 ### Jupiter notebook 
 
-[CrimesAnalytics.ipynb] (https://github.com/ElenaFomenko/efomenko/blob/master/CrimesAnalytics.ipynb)
+[CrimesAnalytics.ipynb] (https://github.com/ElenaFomenko/sf_incidents/blob/master/CrimesAnalytics.ipynb)
 
