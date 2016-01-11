@@ -2,7 +2,7 @@
 
 ### PDF report
 
-This [PDF] (https://github.com/ElenaFomenko/efomenko/) is the main report file.
+This [PDF report] ((https://github.com/ElenaFomenko/sf_incidents/files/86448/Assignment_6_Crime_Analytics.-.Submission.pdf)) is the main submission file, which contains text and links to the live demo Tableau and ArcGIS web applications, and iPhyton notebook.
 * The final version of PDF file will be submitted by January 11, 10:00 pm (Pacific Time)
 
 ### Maps
