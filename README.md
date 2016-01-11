@@ -2,8 +2,8 @@
 
 ### PDF report
 
-This [PDF report] ((https://github.com/ElenaFomenko/sf_incidents/files/86448/Assignment_6_Crime_Analytics.-.Submission.pdf)) is the main submission file, which contains text and links to the live demo Tableau and ArcGIS web applications, and iPhyton notebook.
-* The final version of PDF file will be submitted by January 11, 10:00 pm (Pacific Time)
+This [Crime_Analytics_Elena_Fomenko_Submission_v1.pdf](https://github.com/ElenaFomenko/sf_incidents/files/86454/Crime_Analytics_Elena_Fomenko_Submission_v1.pdf) is the main submission file, which contains text and links to the live demo Tableau and ArcGIS web applications, and iPhyton notebook.
+* The final version of PDF file will be submitted by January 11, 10:00 pm (Pacific Time) - all code, applications and visualizations are ready (links below are working), it takes only several hours to finish the TEXT of the report (today evening).
 
 ### Maps
 Instructions 'how to use' will be submitted by January 11, 10:00 pm (Pacific Time)
