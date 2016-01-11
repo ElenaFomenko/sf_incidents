@@ -14,7 +14,7 @@ Instructions 'how to use' will be submitted by January 11, 10:00 pm (Pacific Tim
 
 ### Tableau dashboard
 
-The [Tableau dashboard] (https://public.tableau.com/profile/publish/SanFrancisco_Incidents_2014/Dashboard#!/publish-confirm) includes the interactive dashboard and all its frames on the separated tabs. You may download this Tableu demo workbook by clicking "Got it" button in the upper top corner of the above link.
+The [Tableau dashboard] (https://public.tableau.com/profile/publish/SanFrancisco_Incidents_2014/Dashboard#!/publish-confirm) includes the interactive dashboard and all its frames on the separated tabs. You may download this Tableu demo workbook by clicking "Got it" button in the upper right corner of the above link.
 
 ### Jupiter notebook 
 
