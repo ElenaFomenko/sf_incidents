@@ -22,5 +22,5 @@ The [Tableau dashboard] (https://public.tableau.com/profile/publish/SanFrancisco
 
 ### Jupiter notebook 
 
+Jupiter (iPython) notebook, which provides the reproducibility, was used for some programing tasks as well as several Python libraries for visualization like Bokeh and matplotlib. The code, text and visualizations of iPython notebooks are hosted on GitHub:  
 [CrimesAnalytics.ipynb] (https://github.com/ElenaFomenko/sf_incidents/blob/master/CrimesAnalytics.ipynb)
-
